@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Spawn:
 I'm **Vishesh Gurnani**, a BCA student specializing in **Artificial Intelligence and Machine Learning**, with a focus on building practical, end-to-end software and ML systems.<br><br>I work primarily with **Python, JavaScript/TypeScript, React, Node.js, FastAPI, PyTorch, and Scikit-learn**, and I'm actively expanding my skills in cloud infrastructure and deployment. My projects span **machine learning, AI-powered applications, full-stack development, automation, and data-driven systems**.<br><br>Beyond development, I serve as the **President of my university's ISACA Student Group** and have experience leading teams, organizing technical initiatives, and communicating technical ideas to diverse audiences.<br><br>I'm currently focused on becoming a stronger **ML/AI engineer** by building production-oriented projects, improving my understanding of ML systems, and exploring opportunities where I can work on real-world engineering problems.
 
 
