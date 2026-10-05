@@ -130,6 +130,3 @@ I'm always interested in **AI/ML engineering, software development, automation, 
   <i>Building intelligent systems and turning ideas into working software.</i>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VisheshGurnani&style=flat-square&color=0" alt="Profile Views"/>
-</p>
